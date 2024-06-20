@@ -63,7 +63,7 @@ trait,code,sampleprev,popprev
 Trait1,trait1.gz,0.1,0.01
 Trait2,trait2.gz,0.2,0.02
 Trait3,trait3.gz,0.15,0.015
-        ```
+```
 - reference.1000G.maf.0.005.txt.gz: Reference file for LD score regression.
 - w_hm3.snplist: SNP list.
 - Summary statistic files for each trait located in the specified path (/scratch/prj/gwas_sumstats/munged/).
