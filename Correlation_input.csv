@@ -1,5 +1,5 @@
 code,trait,sampleprev,popprev
 DEPR12.gz,Depression,0.4,0.10
-ALCO04.gz,ALCOHOL USE,,
-EDUC03.gz,years_educational_attainment,,
-SMOK03.gz,smoking_cigarets_per_day,,
+ALCO04.gz,Alcohol Use,,
+EDUC03.gz,Years_educational_attainment,,
+SMOK03.gz,Smoking_cigarets_per_day,,
