@@ -1,17 +1,5 @@
 code,trait,Cluster,sampleprev,popprev
-DEPR12.sumstats.gz,Depression,Psychiatry,0.4,0.10
-ALCO04.sumstats.gz,ALCOHOL USE,Substance use,,
-EDUC03.sumstats.gz,years_educational_attainment,Educational attainment,,
-INCO03.sumstats.gz,social_deprivation,Socioeconomic status,,
-INCO02.sumstats.gz,household_income,Socioeconomic status,,
-HEAL01.sumstats.gz,health,Cognition,,
-LONE01.sumstats.gz,loneliness,Emotion,,
-INTE03.sumstats.gz,intelligence,Intelligence,,
-TIRE01.sumstats.gz,self-reported_tiredness,Emotion,,
-SUBJ01.sumstats.gz,subjective_well-being,Emotion,,
-SMOK03.sumstats.gz,smoking_cigarets_per_day,Substance use,,
-CHRO02.sumstats.gz,sleep_duration,Sleep,,
-REPR02.sumstats.gz,number_of_children,Reproduction,,
-REPR01.sumstats.gz,age_first_birth,Reproduction,,
-PHYS01.sumstats.gz,physical_activtiy,Behaviour,,
-NEUR04.sumstats.gz,neuroticism,Personality,,
+DEPR12.gz,Depression,Psychiatry,0.4,0.10
+ALCO04.gz,ALCOHOL USE,Substance use,,
+EDUC03.gz,years_educational_attainment,Educational attainment,,
+SMOK03.gz,smoking_cigarets_per_day,Substance use,,
