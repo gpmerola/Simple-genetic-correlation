@@ -57,12 +57,12 @@ python corrplot.py
 ```
 
 ## Input Files
-- Correlation_input.csv: A CSV file containing the traits, sample prevalence, and population prevalence.
-        ```
-        trait,code,sampleprev,popprev
-        Trait1,trait1_sumstats.txt,0.1,0.01
-        Trait2,trait2_sumstats.txt,0.2,0.02
-        Trait3,trait3_sumstats.txt,0.15,0.015
+- Correlation_input.csv: A CSV file containing the traits name, traits file name, sample prevalence, and population prevalence.
+```
+trait,code,sampleprev,popprev
+Trait1,trait1.gz,0.1,0.01
+Trait2,trait2.gz,0.2,0.02
+Trait3,trait3.gz,0.15,0.015
         ```
 - reference.1000G.maf.0.005.txt.gz: Reference file for LD score regression.
 - w_hm3.snplist: SNP list.
