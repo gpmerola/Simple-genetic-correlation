@@ -57,20 +57,20 @@ python corrplot.py
 ```
 
 ## Input Files
-    -Correlation_input.csv: A CSV file containing the traits, sample prevalence, and population prevalence.
-        ```csv
+- Correlation_input.csv: A CSV file containing the traits, sample prevalence, and population prevalence.
+        ```
         trait,code,sampleprev,popprev
         Trait1,trait1_sumstats.txt,0.1,0.01
         Trait2,trait2_sumstats.txt,0.2,0.02
         Trait3,trait3_sumstats.txt,0.15,0.015
         ```
-    -reference.1000G.maf.0.005.txt.gz: Reference file for LD score regression.
-    -w_hm3.snplist: SNP list.
-    -Summary statistic files for each trait located in the specified path (/scratch/prj/gwas_sumstats/munged/).
+- reference.1000G.maf.0.005.txt.gz: Reference file for LD score regression.
+- w_hm3.snplist: SNP list.
+- Summary statistic files for each trait located in the specified path (/scratch/prj/gwas_sumstats/munged/).
 
 ## Output Files
-    - results_table.csv: A CSV file containing the calculated correlations and standard errors.
-    - correlation_plot_python.png: A PNG file visualizing the correlations with error bars.
+- results_table.csv: A CSV file containing the calculated correlations and standard errors.
+- correlation_plot_python.png: A PNG file visualizing the correlations with error bars.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
