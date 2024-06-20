@@ -1,5 +1,5 @@
-code,trait,Cluster,sampleprev,popprev
-DEPR12.gz,Depression,Psychiatry,0.4,0.10
-ALCO04.gz,ALCOHOL USE,Substance use,,
-EDUC03.gz,years_educational_attainment,Educational attainment,,
-SMOK03.gz,smoking_cigarets_per_day,Substance use,,
+code,trait,sampleprev,popprev
+DEPR12.gz,Depression,0.4,0.10
+ALCO04.gz,ALCOHOL USE,,
+EDUC03.gz,years_educational_attainment,,
+SMOK03.gz,smoking_cigarets_per_day,,
