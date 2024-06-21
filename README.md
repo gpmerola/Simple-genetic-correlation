@@ -70,7 +70,7 @@ Trait3.gz,trait3,0.15,0.015
 
 ## Output Files
 - results_table.csv: A CSV file containing the calculated correlations and standard errors.
-- correlation_plot_python.png: A PNG file visualizing the correlations with error bars.
+- correlation_plot.png: A PNG file visualizing the correlations with error bars.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
