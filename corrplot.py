@@ -22,7 +22,7 @@ def main():
     plt.gcf().set_facecolor('white')
 
     # Save the plot as a PNG file with a white background
-    plt.savefig('correlation_plot_python.png', bbox_inches='tight', facecolor='white')
+    plt.savefig('correlation_plot.png', bbox_inches='tight', facecolor='white')
 
     print("---------------------------------------------------------Whole Code Finished")
 
