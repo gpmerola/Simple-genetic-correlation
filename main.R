@@ -8,8 +8,6 @@ if (!dir.exists("log")) {
   dir.create("log")
 }
 
-ref_file = "~/proj/CommonFiles/reference.1000G.maf.0.005.txt.gz"
-hm3 = "~/proj/CommonFiles/w_hm3.snplist"
 paths_corr <- "/scratch/prj/gwas_sumstats/munged/"
 ld <- "~/proj/CommonFiles/eur_w_ld_chr/"
 wld <- ld
