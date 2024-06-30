@@ -64,9 +64,13 @@ Trait1.gz,trait1,0.1,0.01
 Trait2.gz,trait2,0.2,0.02
 Trait3.gz,trait3,0.15,0.015
 ```
-- reference.1000G.maf.0.005.txt.gz: Reference file for LD score regression.
-- w_hm3.snplist: SNP list.
-- Summary statistic files for each trait located in the specified path (/scratch/prj/gwas_sumstats/munged/).
+
+- Update these paths in the script according to your data storage locations:
+
+    - Summary Statistics Path (paths_corr): Set to the directory holding the GWAS summary statistics.
+
+    - LD Score Path (ld): Set to the directory with the LD score files used for analysis.
+
 
 ## Output Files
 - results_table.csv: A CSV file containing the calculated correlations and standard errors.
