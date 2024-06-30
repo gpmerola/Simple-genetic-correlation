@@ -8,8 +8,9 @@ if (!dir.exists("log")) {
   dir.create("log")
 }
 
-paths_corr <- "/scratch/prj/gwas_sumstats/munged/"
-ld <- "~/proj/CommonFiles/eur_w_ld_chr/"
+paths_corr <- "PATH_DIRECTORY_LOCATION_SUMSTATS" # EDIT WITH APPROPRIATE PATH
+ld <- "PATH_DIRECTORY_LOCATION_LD" # EDIT WITH APPROPRIATE PATH
+
 wld <- ld
 
 corr <- read.csv("Correlation_input.csv")
