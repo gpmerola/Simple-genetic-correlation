@@ -23,7 +23,7 @@ Simple-genetic-correlation  is a simple tool designed for calculating and visual
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/GenomicCorrelator.git
+    git clone git@github.com:gpmerola/Simple-genetic-correlation.git
     cd GenomicCorrelator
     ```
 
